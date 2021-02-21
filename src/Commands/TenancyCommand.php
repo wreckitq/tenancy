@@ -1,12 +1,12 @@
 <?php
 
-namespace Spatie\Skeleton\Commands;
+namespace Wreckitq\Tenancy\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class TenancyCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'tenancy';
 
     public $description = 'My command';
 

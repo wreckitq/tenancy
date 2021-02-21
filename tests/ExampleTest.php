@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Wreckitq\Tenancy\Tests;
 
 class ExampleTest extends TestCase
 {
